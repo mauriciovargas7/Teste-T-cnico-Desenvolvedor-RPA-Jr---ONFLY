@@ -52,12 +52,12 @@ Teste RPA - Felipe Campos Junior.xlsx
 4️⃣ Envio
 Envie o arquivo gerado para o seguinte webhook via requisição HTTP POST:
 
-https://n8n.dev.onfly.com.br/webhook/b5264095-007e-4c33-a27f-edee2bb6570b
+https://sua-url
 
 Autenticação:
 
-Usuário: user.test
-Senha: user.test@7957
+Usuário: seu-user
+Senha: sua-senha
 
 ⚙️ Requisitos
 
